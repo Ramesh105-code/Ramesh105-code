@@ -25,7 +25,7 @@ Versatile MERN full-stack developer adept in solo and collaborative projects. Ea
   <a href="https://skillicons.dev">
     <h1>Frontend :</h1>
     <img src="https://skillicons.dev/icons?i=html,css,js,git" />
-    <img src="https://skillicons.dev/icons?i=react,redux,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,redux" />
     <h1>Backend :</h1>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </a>
