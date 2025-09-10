@@ -13,7 +13,7 @@ Versatile MERN full-stack developer adept in solo and collaborative projects. Ea
 
 ### 🌐 Socials:
  
-####  🔗 LinkedIn: <a href="https://www.linkedin.com/in/pavan-bhaskar-thota/">PavanBhaskar</a>
+####  🔗 LinkedIn: <a href="https://www.linkedin.com/in/kuruba-ramesh-110164212/">Ramesh Kuruba</a>
 ####  📨 Mail to : <a href="mailto:pavanbhaskarthota05@gmail.com"> pavanbhaskarthota05@gmail.com</a>
      
 
