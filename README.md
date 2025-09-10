@@ -9,7 +9,7 @@ Versatile MERN full-stack developer adept in solo and collaborative projects. Ea
 
 ### 💼 Portfolio:
 
-#### Check out my portfolio [here](https://pavanbhaskarthota.github.io/).
+#### Check out my portfolio [here](https://rameshk-eta.vercel.app/).
 
 ### 🌐 Socials:
  
